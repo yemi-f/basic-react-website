@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/basic-react-website/static/css/main.d68390b2.chunk.css",
+    "main.js": "/basic-react-website/static/js/main.95596c9e.chunk.js",
+    "main.js.map": "/basic-react-website/static/js/main.95596c9e.chunk.js.map",
+    "runtime-main.js": "/basic-react-website/static/js/runtime-main.9e3d251e.js",
+    "runtime-main.js.map": "/basic-react-website/static/js/runtime-main.9e3d251e.js.map",
+    "static/js/2.16da7c14.chunk.js": "/basic-react-website/static/js/2.16da7c14.chunk.js",
+    "static/js/2.16da7c14.chunk.js.map": "/basic-react-website/static/js/2.16da7c14.chunk.js.map",
+    "index.html": "/basic-react-website/index.html",
+    "precache-manifest.f20319d40450c69d8c9d4bdb211ce0a1.js": "/basic-react-website/precache-manifest.f20319d40450c69d8c9d4bdb211ce0a1.js",
+    "service-worker.js": "/basic-react-website/service-worker.js",
+    "static/css/main.d68390b2.chunk.css.map": "/basic-react-website/static/css/main.d68390b2.chunk.css.map",
+    "static/js/2.16da7c14.chunk.js.LICENSE.txt": "/basic-react-website/static/js/2.16da7c14.chunk.js.LICENSE.txt",
+    "static/media/Heart.png": "/basic-react-website/static/media/Heart.1381722e.png",
+    "static/media/Smile.png": "/basic-react-website/static/media/Smile.ca469ad8.png",
+    "static/media/Tablet.png": "/basic-react-website/static/media/Tablet.db845774.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e3d251e.js",
+    "static/js/2.16da7c14.chunk.js",
+    "static/css/main.d68390b2.chunk.css",
+    "static/js/main.95596c9e.chunk.js"
+  ]
+}
