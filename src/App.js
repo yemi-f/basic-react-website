@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Navbar from "./Navbar";
 import Homepage from "./Homepage";
-
 import About from "./About";
 import Register from "./Register";
 import Footer from "./Footer"
@@ -10,9 +9,8 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
-
       <div className="App">
         <Switch>
           <Route exact path="/" component={Homepage} />
