@@ -41,7 +41,6 @@ const PersonCard = (props) => {
                     </h5>
                     <p className="mb-0 font-weight-bold">{person.fullName}</p>
                     <p className="text-muted">{person.jobTitle}</p>
-
                 </div>
             </div>
         )

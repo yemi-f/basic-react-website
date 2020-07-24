@@ -19,7 +19,6 @@ function App() {
           <Route component={PageNotFound} />
         </Switch>
         <Footer />
-
       </div>
     </Router>
   );
@@ -28,7 +27,7 @@ function App() {
 
 const PageNotFound = () => {
   return (
-    <h1>Page not found</h1>
+    <h1 className="text-center">Page not found</h1>
   )
 }
 
